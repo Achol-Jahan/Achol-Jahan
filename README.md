@@ -46,14 +46,6 @@
 
 ## Make something memorable
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=achol-jahan&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252435999%3Fu%3D7e197c9c78ff13f0856d13c9d4368c6e38acb723%26v%3D4" alt="achol-jahan social visual" />
 </p>
