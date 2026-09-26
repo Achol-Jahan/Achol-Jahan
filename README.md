@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./github-banner.jpg" alt="Jafin Jahan Achol GitHub Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70C88&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Achol+Jahan;Aspiring+Full+Stack+Developer;Web+Development+Learner;AI+Enthusiast;Building+%26+Learning" alt="Typing SVG" />
 </p>
 
