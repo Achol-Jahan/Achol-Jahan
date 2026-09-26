@@ -2,7 +2,6 @@
   <img src="./github-banner.jpg" alt="Jafin Jahan Achol GitHub Banner" width="100%">
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70C88&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Achol+Jahan;Aspiring+Full+Stack+Developer;Web+Development+Learner;AI+Enthusiast;Building+%26+Learning" alt="Typing SVG" />
 </p>
@@ -45,8 +44,17 @@ Alongside web development, I'm exploring Generative AI, AI workflows, prompt eng
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achol-jahan/achol-jahan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achol-jahan/achol-jahan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/achol-jahan/achol-jahan/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/achol-jahan/achol-jahan/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/achol-jahan/achol-jahan/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/achol-jahan/achol-jahan/output/pacman-contribution-graph.svg"
+  />
 </picture>
