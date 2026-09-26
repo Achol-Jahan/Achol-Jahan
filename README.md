@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C88&width=435&lines=Hi%2C+I'm+Achol+Jahan;Aspiring+Full+Stack+Developer;Web+Development+Learner;AI+Enthusiast;Building+%26+Learning)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70C88&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Achol+Jahan;Aspiring+Full+Stack+Developer;Web+Development+Learner;AI+Enthusiast;Building+%26+Learning" alt="Typing SVG" />
+</p>
 
 # 💫 About Me
 
